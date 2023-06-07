@@ -1,0 +1,2 @@
+# declaration
+first prototype
